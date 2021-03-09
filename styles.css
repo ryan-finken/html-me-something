@@ -23,7 +23,7 @@ img.square {
 }
 
 img.tall {
-    max-width: 45%;
+    width: 45%;
 }
 
 figcaption {
